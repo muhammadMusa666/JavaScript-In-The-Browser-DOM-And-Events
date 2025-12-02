@@ -1,0 +1,3 @@
+# This Is The 4th Repo And Section In This So Called JavaScript Learning Series, And In This Section, We Will Learn How To Use JavaScript In The Browser, Aswell Aswell As Learning About DOM And Events, So By Using DOM Manipulation, We Will Also Be Creating Our First Projects😄! You Will Learn More About DOM, Events, And Other Things In The Parts Of This Section, And Our First Part Will Be A Project, To Make Sure That The Things We Learned Before Actually Stay In Your Mind, And Anyways, Lets Begin! So Again.... I Hope U Like It😆!
+
+# Made With Love By Musa!
