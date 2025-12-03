@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About Selecting And Manipulating Elements, And I Wanted To Inform You About My Change Of Plans For This Section, So, In The Future Projects, We Will Learn All About DOM, DOM Manipulation And Events, While Completing The Projects In Parts, So Instead Of Making Subrepos For A Certain Topic, I Will Make One As Part Of The Project Where We Will Learn That Topic Whilst Doing The Project Slowly But Surely, So I Hope You Understand And Adapt😅, But Anyways, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
