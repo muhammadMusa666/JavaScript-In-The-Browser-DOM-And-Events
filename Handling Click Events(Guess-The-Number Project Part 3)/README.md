@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About Handling Click Events, This Is A Somewhat Confusing Topic For Some People, I'd Say 5/10 on The Confusion Scale😆, Not Too Bad, And Surely You'll Get It If You've Made It This Far, Anyways, This Subrepo Is Mostly Comments, Because Well It Wouldnt Make Sense In This Topic, And....Partially because I'm Too Lazy To Write A Whole Lot Of Code😅, Aside From That, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
