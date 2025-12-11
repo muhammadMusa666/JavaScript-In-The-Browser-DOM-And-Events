@@ -1,0 +1,3 @@
+# In This Subrepo We Will Be Implementing More Game Logic And Exploring More And Better Ways To Code To Implement It, This One Is Pretty Long, And At First Glance Is Pretty Compact, And Detailed😅, Which Might Stress You Somewhat, But After You Read And Know About Whats Happening, You'll Understand Flawlessly😄, But Anyways, Since This Part Is Pretty Big, I Recommend You Keep Analyzing More And Researching About It While Practicing It Somewhat, Also I Hope You Slowly Understand And Know Some Small Shortcuts Or Tips To Help You Code, And That Your Slowly Finding Your Coding Style, And Most Of All, Understanding Most Things🫡, Anyways, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
