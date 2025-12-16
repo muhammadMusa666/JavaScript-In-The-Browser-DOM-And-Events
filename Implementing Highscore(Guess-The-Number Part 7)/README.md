@@ -1,0 +1,3 @@
+# In This Subrepo, We Will Implement The Highscore Feature For Our Game, This Was Really Short😅, So I Dont Have Much To Say, This Was Also The 7th Part Of Our Project, And The Next Part Will Be The Last😄, Where We Clean Up Our Code, But Anyways, I Suggest Revising Everything We've Done In This Project, To Keep Things Fresh, So You Dont Forget The Tools You Can Use😉, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
