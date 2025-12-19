@@ -1,0 +1,3 @@
+# In This Subrepo, We Will Be Working With Classes, And Other Stuff To Fix The Modal Window And Make It Better, This Is The 2nd Part Of This New Project, And This Was Also A Huge Pain To Make, It Took Me Almost All Day To Complete This, And I Dont Know Why😑, But Anyways, Since This Was So Hard To Make, It Will Definitly Have Some Confusing Parts And Stuffs...Partially Because Of How I Arranged And Made It, But This Also Has Alot Of Important Stuff You Should Know, I Also Hope That The Comments Help You Instead Of Being Annoying And Not Helpful😅, But Anyways, Keep Practicing, And Analyzing This Code, Because You Will Need It, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
