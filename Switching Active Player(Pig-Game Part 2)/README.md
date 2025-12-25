@@ -1,0 +1,3 @@
+# In This Subrepo, We Will Be Switching The Active Player In Our Project, This Is Part 2 Of Our Project, Originally Planned To Be Part 3, But You Already Know Why Its Part 2😉, Anyways, This Subrepo Is Pretty Long, But Included Mostly Things That We've Already Learnt And Known About, So It Wont Be That Confusing😄, Unless You Have Problems With The Comments I've Made😅, But If You've Been Following Me Along, It Should Be No Problem😎, In The Next Subrepo, We Will Make The Functionality For Holding The Current Score, Also, I Hope Your Revisiting Our Previous Sections And Subrepo's, And Revising Some Stuff, To Ensure Everything Remains In Your Head😃, Anyways, Let Me Know If You Encounter Any Errors. I Hope U Like It!
+
+# Made With Love By Musa!
